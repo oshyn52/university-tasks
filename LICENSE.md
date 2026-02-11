@@ -2,7 +2,7 @@ MIT License
 
 
 
-Copyright (c) 2024 \[Ваше Имя]
+Copyright (c) 2024 Da
 
 
 
